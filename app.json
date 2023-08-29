@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "CurrencyCalculator",
-    "slug": "CurrencyCalculator",
+    "name": "HeartRateLimit",
+    "slug": "HeartRateLimit",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
